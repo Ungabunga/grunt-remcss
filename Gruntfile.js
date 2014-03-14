@@ -35,7 +35,8 @@ module.exports = function (grunt) {
     remcss: {
       default_options: {
         options: {
-          audits: ['test/1.txt', 'test/2.txt']
+          audits: ['test/1.txt', 'test/2.txt'],
+          ignore: ['.infobox', '.media', '.mapRatingDiv', '.bd']
         },
         files: {
           'test/dest.css': ['test/src.css']

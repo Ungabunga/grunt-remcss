@@ -527,6 +527,53 @@ td {
   font-family: Verdana;
 }
 
+.infobox {
+  color: #393939;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  height: 130px;
+  width: 408px;
+}
+
+.infobox__title {
+  margin-bottom: .5em;
+}
+
+.infobox__body .col {
+  float: left;
+  width: 49.5%;
+}
+
+.infobox__loader {
+  height: 130px;
+  text-align: center;
+}
+
+.infobox__loader img {
+  margin: 48px;
+}
+
+.media,
+.bd {
+  overflow: hidden;
+  _overflow: visible;
+  zoom: 1;
+}
+
+.media .img {
+  float: left;
+  margin-right: 10px;
+}
+
+.media .img img {
+  display: block;
+}
+
+.media .imgExt {
+  float: right;
+  margin-left: 10px;
+}
+
 .cf:before,
 .cf:after {
   content: " ";

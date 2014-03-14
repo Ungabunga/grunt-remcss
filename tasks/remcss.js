@@ -24,12 +24,13 @@ module.exports = function (grunt) {
     var options = this.options({
       punctuation: '.',
       separator: ', ',
-      audits: []
+      audits: [],
+      ignore: []
     });
 
     var audits = [],
         selectorsToRemove = [],
-
+        selectorsToIgnore = [],
         parsedCss;
 
     options.audits.forEach(function (auditFile) {
@@ -37,6 +38,18 @@ module.exports = function (grunt) {
     });
 
     selectorsToRemove = _.intersection.apply(this, audits);
+
+    _(options.ignore).each(function(ignored) {
+
+      _(selectorsToRemove).each(function (selector) {
+        if (selector.indexOf(ignored) >= 0) {
+          selectorsToIgnore.push(selector);
+        }
+      });
+
+    });
+
+    selectorsToRemove = _.difference(selectorsToRemove, selectorsToIgnore);
 
     // Iterate over all specified file groups.
     this.files.forEach(function (file) {
