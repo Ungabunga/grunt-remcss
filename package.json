@@ -2,7 +2,7 @@
   "name": "grunt-remcss",
   "version": "0.0.1",
   "description": "Semi-automated tool for removing unused css.",
-  "repository": "https://github.com/Ungabunga/grunt-remcss",
+  "repository": "https://github.com/minmur/grunt-remcss",
   "author": {
     "name": "Mindaugas Murauskas",
     "email": "mindaugas.murauskas@gmail.com"
