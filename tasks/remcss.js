@@ -6,9 +6,9 @@
  * Licensed under the MIT license.
  */
 
-'use strict';
-
 module.exports = function (grunt) {
+
+  'use strict';
 
   var fs = require('fs'),
       _ = require('underscore'),
@@ -30,8 +30,7 @@ module.exports = function (grunt) {
 
     var audits = [],
         selectorsToRemove = [],
-        selectorsToIgnore = [],
-        parsedCss;
+        selectorsToIgnore = [];
 
     options.audits.forEach(function (auditFile) {
       audits.push(fs.readFileSync(auditFile).toString().split("\r\n"));
@@ -59,9 +58,10 @@ module.exports = function (grunt) {
         if (!grunt.file.exists(filepath)) {
           grunt.log.warn('Source file "' + filepath + '" not found.');
           return false;
-        } else {
-          return true;
         }
+
+        return true;
+
       });
 
       var css = grunt.file.read(src[0]),//fs.readFileSync(src[0]).toString().split('\r\n').join(''),
@@ -85,7 +85,7 @@ module.exports = function (grunt) {
 
       grunt.file.write(file.dest, stringify(parsedCss));
 
-      grunt.log.writeln('CSS cleared.');
+      grunt.log.writeln('File ' + file.dest + ' created.');
     });
 
 
