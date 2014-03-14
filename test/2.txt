@@ -1,0 +1,778 @@
+fbody
+h4, .h4
+hr
+#top-navigation
+.crumbtrail-navigation-link, .crumbtrail-navigation-link:visited, .crumbtrail-navigation-link:active, .crumbtrail-navigation-link:hover
+.crumbtrail-navigation-link-selected, .crumbtrail-navigation-link-selected:visited, .crumbtrail-navigation-link-selected:active, .crumbtrail-navigation-link-selected:hover
+#left-main-container
+.support-img
+#right-main-container
+#footer-container h1
+#footer-navigation
+.footer-navigation-item
+.footer-navigation-item a, .footer-navigation-item a:visited, .footer-navigation-item a:active, .footer-navigation-item a:hover
+#footer-logos
+#footer-copyright
+#left-navigation
+#support-img
+#support-chat
+.left-navigation
+#left-support
+#left-newsletter
+#left-newsletter .tb-newsletter
+#left-newsletter .btn-newsletter
+.navigation-unit-top
+.navigation-unit-middle
+.navigation-unit-bottom
+.navigation-unit-body
+.navigation-item-left
+.navigation-item-right
+.navigation-item
+.navigation-item img
+.navigation-item-arrow-invisible
+.navigation-item-container
+.navigation-item-arrow-visible
+.navigation-link, .navigation-link:visited, .navigation-link:active, .navigation-link:link
+.navigation-link-sub, .navigation-link-sub:visited, .navigation-link-sub:active
+.navigation-link-selected, .navigation-link-selected:visited, .navigation-link-selected:active, .navigation-link:hover
+.navigation-link-sub-selected, .navigation-link-sub-selected:visited, .navigation-link-sub-selected:active, .navigation-link-sub:hover
+.store-select
+#main-content-header-container
+#main-content-header-container div
+#main-content-header
+.main-content-header-display
+.main-content-header-edit
+#main-content-crumbtrail-container
+#main-content-crumbtrail
+#main-content-utility-links
+#main-content-left
+#main-content-left p
+#main-content-full
+#main-content-right
+#main-content-right-top
+#main-content-right-btm
+#main-content-right-column
+#main-content-right-column p
+#main-content-start
+#main-content-left-start
+#main-content-left-start-introduction h2, #main-content-left-start-introduction h4
+#main-content-right-start
+#book-panel-container
+#book-panel-content
+#book-panel-top, #book-panel-btm
+.main-content-left-start-column
+.padding-left-24
+#main-content-right-start-column
+#main-content-right-start-btm
+#main-content-right-start-top
+.start-right-column-puff
+.start-right-column-puff-body
+.start-right-column-puff-btm
+.start-right-column-puff-header
+.start-right-column-puff-rss
+.start-right-column-puff-links
+.start-right-column-puff-link
+.start-right-column-puff-link a, .start-right-column-puff-rss a
+.start-right-column-puff-link-press a
+.start-right-column-puff-link-press
+.purpletext
+#site-action-menu-container
+#presslist-year-header
+#presslist-year-navigation
+.presslist-year-navigation-link, .presslist-year-navigation-link:active, .presslist-year-navigation-link:visited, .presslist-year-navigation-link:hover
+.presslist-year-navigation-link-selected, .presslist-year-navigation-link-selected:active, .presslist-year-navigation-link-selected:visited, .presslist-year-navigation-link-selected:hover
+.presslist-item
+.presslist-item-left
+.presslist-item-right
+#presslist-rss-container
+#presslist-rss-container a
+.faq-navigation-item
+.faq-navigation-item-left
+.faq-navigation-item-right
+.faq-navigation-item-left img
+.faq-navigation-item-link, .faq-navigation-item-link:active, .faq-navigation-item-link:visited, .faq-navigation-item-link:hover
+.right-column-navigation-item
+.right-column-navigation-item-left
+.right-column-navigation-item-right
+.right-column-navigation-item-left img
+.right-column-navigation-item-link, .right-column-navigation-item-link:active, .right-column-navigation-item-link:visited, .right-column-navigation-item-link:hover
+.right-column-navigation-item-link-selected, .right-column-navigation-item-link-selected:active, .right-column-navigation-item-link-selected:visited, .right-column-navigation-item-link-selected:hover
+.job-list-link
+.job-list-link a
+.bg-color-f6e5f2
+.right-column-puff-row-item
+.right-column-puff-row-item a, .right-column-puff-row-item a:visited, .right-column-puff-row-item a:active, .right-column-puff-row-item a:hover
+#currency-footer
+#currency-footer-left
+#currency-footer-right
+.font-weight-bold
+.currency-table
+.currency-table th
+.currency-table td
+.currency-table .alternate-row
+#main-content-newsletter-form
+#main-content-latest-newsletter-link
+#main-content-latest-newsletter-link a, #main-content-latest-newsletter-link a:visited, #main-content-latest-newsletter-link a:active, #main-content-latest-newsletter-link a:hover
+.tb-newsletter
+.btn-newsletter
+#store-subpage-back-container
+#store-subpage-left-column
+#store-subpage-right-column
+.store-subpage-right-column-puff
+.store-contact-puff-content
+.store-contact-puff-content #map-link
+.store-contact-puff-content, .store-newsletter-puff-content
+.store-newsletter-puff-content
+.store-newsletter-puff-text
+.store-newsletter-puff-btm
+.store-newsletter-puff-header
+.store-contact-puff-btm
+.store-contact-puff-top
+#store-start-text-container
+#store-start-text-container p
+#store-start-map-container
+#store-start-employee-container
+#store-start-puff-container
+#store-start-travel-request-container
+#store-start-employee-link-container
+.store-subpage-item
+.store-subpage-item-image
+.store-subpage-item-right
+.store-subpage-item-right h2
+.store-subpage-item-link
+.store-subpage-item-hr
+.store-employee-item
+.rs h1, .rs h2
+.rs .store-contact-puff-content, .rs .store-newsletter-puff-content
+.color-red
+#offer-navigation-container
+.offer-navigation-item-float-left
+#offers-left-container
+#offers-right-container
+#offers-left-top
+#offers-left-btm
+#offers-right-top
+#offers-right-btm
+#offers-left-content
+#offers-right-content
+#offers-text-container
+#offers-right-list
+#offers-right-list-top, #offers-right-list-btm
+#offers-right-list-content
+#offers-right-list-header
+.font-size-9
+#offers-list
+#offers-list .offer-list-item
+#offers-list .offer-list-item-category
+#offers-list .offer-list-item-link
+#offers-list .offer-list-item-link a, #offers-list .offer-list-item-link a:visited, #offers-list .offer-list-item-link a:active, #offers-list .offer-list-item-link a:hover
+#offers-list-start
+#offers-list-start-links
+#conference-offers-list-start
+#offers-list-start-image, #last-minute-list-start-image
+#offers-rss-start
+#offers-rss-start a
+#offers-list-start-link
+#offers-list-start-link a, #offers-list-start-link a:visited, #offers-list-start-link a:active, #offers-list-start-link a:hover
+.offer-list-item-link a, .offer-list-item-link a:visited, .offer-list-item-link a:active, .offer-list-item-link a:hover
+#offers-list-start .offer-list-item, #conference-offers-list-start .offer-list-item
+#offers-list-start .offer-list-item-link, #conference-offers-list-start .offer-list-item-link
+.offer-puff
+.offer-puff-top
+.offer-puff-header
+.offer-puff-company
+.offer-puff-image
+.offer-puff-text
+.offer-puff-text h2
+.offer-puff-btm
+#tbl-travel-request-private
+#tbl-travel-request-private th
+#tbl-travel-request-private td
+#tbl-travel-request-private .btn
+.red
+#last-minute-frame
+#companies-container
+.company-puff
+.company-puff-top
+.company-puff-header
+.company-puff-logo
+.company-puff-text
+.company-puff-offer
+.company-puff-offer-link, .company-puff-offer-link:active, .company-puff-offer-link:visited, .company-puff-offer-link:hover
+.cursor-pointer
+#tip-friend-container
+#tip-friend-container div
+.tip-friend-close
+#bookpage-bookmodule
+#bookpage-intro-text
+#bookpage-teresia-spot-small
+#bookpage-teresia
+#bookpage-puffar
+.bookpage-puff-container
+.bookpage-puff-top
+.bookpage-puff-content
+.bookpage-puff-content-img
+.bookpage-puff-content-map
+.bookpage-puff-btm
+.bookpage-puff-btm-text
+.bookpage-puff-btm-text a, .bookpage-puff-btm-text a:active, .bookpage-puff-btm-text a:hover, .bookpage-puff-btm-text a:visited
+.bookpage-puff-guide-img
+.book-toplist-item
+.book-toplist-item a, .book-toplist-item a:active, .book-toplist-item a:visited, .book-toplist-item a:hover
+.book-toplist-item img
+.book-faq-item
+.book-faq-item a, .book-faq-item a:active, .book-faq-item a:visited, .book-faq-item a:hover
+.book-faq-item img
+#bookpage-faq-spot
+.bookpage-faq-spot-top
+.bookpage-faq-spot-btm
+.bookpage-faq-spot-content
+.bookpage-faq-spot-btm-text a, .bookpage-faq-spot-btm-text a:visited, .bookpage-faq-spot-btm-text a:active, .bookpage-faq-spot-btm-text a:hover
+#bookpage-guide-spot
+.bookpage-guide-spot-top
+.bookpage-guide-spot-content
+.bookpage-guide-spot-flag-img
+#bookpage-guide-spot-table
+#bookpage-guide-spot-table th
+#bookpage-guide-spot-table td
+.bookpage-guide-spot-btm
+.bookpage-guide-spot-btm-text
+.bookpage-guide-spot-btm-text a, .bookpage-guide-spot-btm-text a:visited, .bookpage-guide-spot-btm-text a:active, .bookpage-guide-spot-btm-text a:hover
+#travelguide-main-top-left
+#travelguide-main-top-header
+#travelguide-main-top-header h1
+#travelguide-main-top-info-table
+#travelguide-main-top-info-table th
+.travelguide-main-top-map-img
+.travelguide-main-top-flag-img
+#travelguide-main-top
+#travelguide-main-bottom
+#travelguide-main-bottom-left
+#travelguide-main-bottom-left p
+#travelguide-main-bottom-right
+#travelguide-main-top-utilitylinks
+#travelguide-main-top-utilitylinks .top-left
+#travelguide-main-top-utilitylinks .top-right
+#travelguide-main-top-utilitylinks .bottom-left
+#travelguide-main-top-utilitylinks .bottom-center
+#travelguide-main-top-utilitylinks .bottom-right
+#travelguide-main-top-utilitylinks .top-center
+#travelguide-main-top-utilitylinks .middle-left
+#travelguide-main-top-utilitylinks .middle-center
+#travelguide-main-top-utilitylinks .middle-right
+#travelguide-main-top-utilitylinks .left-item
+#travelguide-main-top-utilitylinks .right-item
+#travelguide-navigation
+#travelguide-navigation h2
+#travelguide-main-top-utilitylinks .right-item a, #travelguide-main-top-utilitylinks .right-item a:visited, #travelguide-main-top-utilitylinks .right-item a:active, #travelguide-main-top-utilitylinks .right-item a:hover
+#travelguide-main-top-utilitylinks .item img
+#travelguide-main-top-utilitylinks .vl
+.travelguide-right-spot
+.travelguide-right-spot-top
+.travelguide-right-spot-content
+.travelguide-right-spot-content-gmap
+.travelguide-right-spot-content h2
+.travelguide-right-spot-content img
+.travelguide-right-spot-btm
+.travelguide-right-spot-btm-text
+.travelguide-right-spot-btm-text a, .travelguide-right-spot-btm-text a:visited, .travelguide-right-spot-btm-text a:active, .travelguide-right-spot-btm-text a:hover
+.travelguide-right-spot-offer-text
+.edit-field-header
+.last-minute-spot-item
+.last-minute-spot-item-link
+.last-minute-spot-item-link a, .last-minute-spot-item-link a:visited, .last-minute-spot-item-link a:active, .last-minute-spot-item-link a:hover
+.last-minute-spot-item-date
+.last-minute-spot-item-price
+#last-minute-list-start
+#last-minute-list-start-text
+#last-minute-start-info
+.bg-color-feebb3
+#edit-mode-navigation-container
+.edit-meta-info-container
+#support-faq-section-header
+#support-faq-section-text
+#support-faq-section-employees
+.tb-newsletter-left
+.btn-newsletter-left
+#newsletter-left-firstname, #newsletter-left-lastname, #newsletter-left-email
+#offer-guide-spot
+.offer-before-travel-spot
+#offer-other-offers-spot
+.offer-guide-spot-top
+#offer-guide-link
+.offer-guide-spot-content
+.offer-guide-spot-content p, .offer-guide-spot-content div
+.offer-guide-spot-btm
+.offer-guide-spot-btm-left
+.offer-guide-spot-btm-right
+.store-sitemap-item
+.store-sitemap-item a, .store-sitemap-item a:visited, .store-sitemap-item a:active, .store-sitemap-item a:hover
+.guide-sitemap-item
+.guide-sitemap-item a, .guide-sitemap-item a:visited, .guide-sitemap-item a:active, .guide-sitemap-item a:hover
+#left-site-info
+#store-sitemap
+#guide-sitemap
+.rosa_balk
+font
+.redtext
+.bluetext, .blue
+.purpletext, .lilatext, .purple
+#main-content-text-iframe
+.sitemap-section
+.sitemap-item a, .sitemap-item a:visited, .sitemap-item a:active, .sitemap-item a:hover
+.ddl-guide-navigation
+.offer-section, .offer-section-first
+.offer-section .left-column
+.offer-section .right-column
+.offer-section .right-column img
+.offer-section .right-column div
+.offer-section-first .left-column
+.offer-section-first .right-column div
+.offer-section-first .right-column
+.offer-section-first .right-column img
+.offerspage-back-container
+#offer-book-info #book-info-head
+#offer-book-info #book-info-footer
+#offer-book-info #book-info-body
+#book-info-body #left-column
+#book-info-body #left-column #text
+#book-info-body #left-column #logo
+#book-info-body #left-column .alternate-logo
+#book-info-body #left-column #company
+#book-info-body #right-column
+#book-info-body #right-column .book-info-online-support
+#book-info-body #right-column div
+#book-info-body #right-column .btn-container
+#travel-category
+#travel-category #left-column
+#travel-category #left-column h1
+#travel-category #left-column #intro
+#travel-category #left-column #companies-list-container
+#travel-category #right-column
+#travel-category #right-column #top-offer
+#travel-category #right-column #offers-list-container
+#companies-list-container
+#companies-list-container .top
+#companies-list-container .bottom
+#company-list-container
+#company-list-container .company-item
+.company-item-logo
+.company-item-name h2
+.company-item-navigation
+.company-item-navigation .navigation-item
+.company-item-navigation .navigation-item .left
+.company-item-navigation .navigation-item .left img, .company-item-navigation .navigation-item .right img
+.company-item-navigation .navigation-item .middle-dark
+.company-item-navigation .navigation-item .middle-light
+.company-item-navigation .navigation-item .middle-dark a, .company-item-navigation .navigation-item .middle-dark a:visited, .company-item-navigation .navigation-item .middle-dark a:active, .company-item-navigation .navigation-item .middle-dark a:hover
+.company-item-navigation .navigation-item .middle-light a, .company-item-navigation .navigation-item .middle-light a:visited, .company-item-navigation .navigation-item .middle-light a:active, .company-item-navigation .navigation-item .middle-light:hover
+.company-item-navigation .navigation-item .right
+#offers-list-container
+#offer-list-container
+#offers-list-container .top
+#offers-list-container .bottom
+#offer-list-container #offer-list-top
+#offer-list-container #offer-list-body
+#offer-list-container .offer-item
+#offer-list-container .malva
+#offer-list-container a, #offer-list-container a:visited, #offer-list-container a:active, #offer-list-container a:hover
+#travel-category #offer-image
+#travel-category-top-offer
+#travel-category-top-offer #top-offer-top
+#travel-category-top-offer #top-offer-btm
+#travel-category-top-offer #top-offer-btm a, #travel-category-top-offer #top-offer-btm a:visited, #travel-category-top-offer #top-offer-btm a:hover, #travel-category-top-offer #top-offer-btm a:active
+#travel-category-top-offer #top-offer-theresia2
+#travel-category-top-offer #top-offer-image-corner
+#business-toplist table tbody tr td
+#employment-start-left
+#employment-start-right
+#employment-start-right-column
+#employment-start-right-btm
+#employment-start-right-top
+#job-left
+#job-application-info #application-info-head
+#job-application-info #application-info-footer
+#job-application-info #application-info-body
+#application-info-body #left-column
+#application-info-body #left-column #text
+#application-info-body #right-column
+#application-info-body #right-column div
+#application-info-body #right-column .btn-container
+#offers-rss
+#offers-rss a
+#company-text-left
+#company-text-right
+#company-text-right img
+#company-text-back
+#conference-offers-list-start-link
+#conference-offers-list-start-link a, #conference-offers-list-start-link a:visited, #conference-offers-list-start-link a:active, #conference-offers-list-start-link a:hover
+#main-content-left-company
+#main-content-left-company p
+#main-content-right-company
+#main-content-right-company #top
+#main-content-right-company #middle
+#main-content-right-company #bottom
+#main-content-right-company #middle .spot
+#main-content-right-company #middle .spot .top
+#main-content-right-company #middle .spot .middle
+#main-content-right-company #middle .spot .bottom
+#main-content-right-company .right-column-navigation-item
+#main-content-right-company .right-column-navigation-item-left
+#main-content-right-company .right-column-navigation-item-right
+#main-content-right-company .right-column-navigation-item-left img
+.spot .middle .navigation-item
+.spot .middle .navigation-item .left
+.spot .middle .navigation-item .left img, .spot .middle .navigation-item .right img
+.spot .middle .navigation-item .middle-dark
+.spot .middle .navigation-item .middle-light
+.spot .middle .navigation-item .middle-dark a, .spot .middle .navigation-item .middle-dark a:visited, .spot .middle .navigation-item .middle-dark a:active, .spot .middle .navigation-item .middle-dark a:hover
+.spot .middle .navigation-item .middle-light a, .spot .middle .navigation-item .middle-light a:visited, .spot .middle .navigation-item .middle-light a:active, .spot .middle .navigation-item .middle-light:hover
+.spot .middle .navigation-item .right
+.spot .middle .offer-item
+.spot .middle .malva
+.spot .middle .offer-item a, .spot .middle .offer-item a:visited, .spot .middle .offer-item a:active, .spot .middle .offer-item a:hover
+.company-logo
+#other-offer-list-container
+#other-offer-list-container #offer-list-top
+#other-offer-list-container #offer-list-body
+#other-offer-list-container .offer-item
+#other-offer-list-container .malva
+#other-offer-list-container a, #other-offer-list-container a:visited, #other-offer-list-container a:active, #other-offer-list-container a:hover
+#travel-category #offer-image
+#business-private-top-offer
+#business-private-top-offer #top-offer-top
+#business-private-top-offer #top-offer-middle
+#business-private-top-offer #top-offer-btm
+#business-private-top-offer #top-offer-btm a, #business-private-top-offer #top-offer-btm a:visited, #business-private-top-offer #top-offer-btm a:hover, #business-private-top-offer #top-offer-btm a:active
+#business-private-top-offer #top-offer-theresia2
+#travel-request-logo
+.arrow-business-offer-spot
+.business-offer-spot-link
+.tabell-bredd-344
+.tabell-bredd-344 .rubrik-rad
+.tabell-bredd-344 .rubrik-rad td
+.tabell-bredd-344 .rad
+.tabell-bredd-344 tbody tr .rad-rosa-bakgrund
+.tabell-bredd-344 tbody tr
+.tabell-bredd-344 thead
+.module-list .head-row-orange
+.module-list-button-orange
+.module-list-button-orange a, .module-list-button-orange a:visited, .module-list-button-orange a:active, .module-list-button-orange a:hover
+#main-content-start .column
+#main-content-start .row
+.module-253x250
+.module-253x250-charter
+.module-list .head-row
+.module-list .info-row
+.module-list .footer-row
+.module-list .bottom-row
+.module-list .list-item
+.module-list-button
+.module-list-button a, .module-list-button a:visited, .module-list-button a:active, .module-list-button a:hover
+.bg-color-ededed
+.list-item-link, .list-item-link:visited, .list-item-link:active, .list-item-link:hover
+.font-weight-normal
+.last-minute-item-link, .last-minute-item-link:visited, .last-minute-item-link:active, .last-minute-item-link:hover
+.last-minute-item-link
+.last-minute-item-price
+.charter-toplist-item-link, .charter-toplist-item-link:visited, .charter-toplist-item-link:active, .charter-toplist-item-link:hover
+.charter-toplist-item-link
+.charter-toplist-unspec-price
+.charter-toplist-threestar-price
+.info-row .destination
+.info-row .unspec-price
+.info-row .threestar-price
+.info-row .threestar-price img
+.charter-toplist
+.charter-toplist .head-row
+.charter-toplist .head-row .destination
+.charter-toplist .head-row .flight-price
+.charter-toplist .head-row .unspec-price
+.charter-toplist .head-row .threestar-price
+.charter-toplist .head-row .search-hits
+.charter-toplist .list-item .destination
+.charter-toplist .list-item .flight-price
+.charter-toplist .list-item .unspec-price
+.charter-toplist .list-item .threestar-price
+.charter-toplist .list-item .search-hits
+.charter-toplist .list-item
+#charter-toplist-container-left
+#charter-toplist-container-right
+.headline-row
+.introduction-row
+.module-253x250 .spot-image
+.module-253x250 .spot-image img
+.module-253x250 .spot-image h3
+.module-253x250 .spot-image .link
+.module-253x250 .spot
+.module-253x250 .spot h3
+.module-253x250 .spot .text
+.module-253x250 .spot .link
+.module-253x512
+.module-518x250
+.column-wrapper
+#travel-category-list-intro
+#travel-category-list-intro #text
+#travel-category-list-intro .theresia2
+#travel-categories
+.travel-category-list-item
+.travel-category-list-item-image
+.travel-category-list-item-header
+.travel-category-list-item-text
+.travel-category-list-item-readmore
+.font-style-italic
+.module-list-rss
+.last-minute-list-message
+.presentcard-spot
+.commercial-left, .commercial-right
+.commercial-middle
+#show-navigation-container
+#hide-navigation-container
+#navigation-container
+#left-dropdown
+#left-dropdown ul
+#left-dropdown li
+#left-dropdown a, #left-dropdown a:visited
+#left-dropdown a:hover
+#left-dropdown-bottom
+#left-wrapper
+#left-bottom
+#left-container
+#left-content h2, #left-content-hotel h2
+.h2-with-sub
+#left-content p
+#left-wrapper-hotel
+#left-bottom-hotel
+#left-container-hotel
+#left-content-hotel
+.seperator
+.leftarrow
+.rightarrow
+.left-content-hotel-content
+.other-hotels
+.other-hotels img
+.input-top
+.text
+.checkbox
+.country
+.place
+.place p
+.input-bottom
+.frantill-wrapper
+.input-top-small
+.input-small
+.input-bottom-small
+.hotel-item
+.hotel-item-stars img
+.hotel-basic-info p
+.fler-avgangar img
+#map-city-wrapper
+#main-city-map
+#btn-large-map
+#info
+#info h1
+#info h2
+#info p
+#info h3
+#city-imgholder
+.avatar
+.avatar img
+.blackbold
+.black
+.purplenumber
+#bookmark-wrapper-all
+.bookmark-container-all
+#bookmark-wrapper
+.bookmark-container
+.bookmark-top
+#bookmark-top-active
+.bookmark-content
+#bookmark-content-active
+.bookmark-bottom
+#bookmark-bottom-active
+.input-field
+.bookmark-container a, .bookmark-container a:visited, .bookmark-container a:hover, .bookmark-container a:active
+.example-date
+.example-date .example-month
+.example-date .example-day
+.example-date .example-year
+#price-slider
+#sort-list
+#sort-list-body
+#sort-list-body img
+#sort-list-body-inner
+#sort-list-body-inner li
+#from-class-list
+#from-class-list-body
+#from-class-list-body img
+#from-class-list-body-inner
+#from-class-list-body-inner li
+#from-class-list-body-inner li img, #to-class-list-body-inner li img
+#to-class-list
+#to-class-list-body
+#to-class-list-body img
+#to-class-list-body-inner
+#to-class-list-body-inner li
+#from-time-list
+#from-time-list-body
+#from-time-list-body img
+#from-time-list-body-inner
+#from-time-list-body-inner li
+#from-time-list-body-inner li img, #to-time-list-body-inner li img
+#to-time-list
+#to-time-list-body
+#to-time-list-body img
+#to-time-list-body-inner
+#to-time-list-body-inner li
+#hotel-heading
+#hotel-heading img
+#hotel-heading-stars
+#main-content-hotel h1
+#hotel-heading p
+#betyg-holder
+#resia-balls
+#main-content-hotel h2
+#hotel-head
+#mini-info
+.hotel-content
+.hotel-content p, .comments-content p, .comments-content-common p, .comments-content-common-wide p, .comments-cred
+#comments-wrapper
+.comments-hotel-container
+.comments-head-name
+.comments-picture
+.comments-content
+.comments-content-common
+.comments-content-common-wide
+.comments-cred
+.cred-1
+.cred-2
+#anmal img
+#form-container
+#form-wrapper
+#comment-link
+#share-wrapper
+.formfield
+.form-container
+.form-container img
+.input-text
+#share-wrapper img
+#footer
+#footer-wrapper
+#footer-wrapper-head
+#footer-wrapper-head img
+#footer-body
+.footer-head-container
+.footer-head-container2
+.footer-head-container3
+#footer-prices-container
+.prices-col1
+.prices-date
+.prices-col2-input
+#prices-marked
+#prices-marked-rollover
+#selected-destination-wrapper
+.selected-destination-content
+#footer-book
+#footer-book img
+#footer-book h1
+left-wrapper-hotel
+#left-bottom-hotel
+.h1-with-sub
+.left-h1-sub
+#left-container-hotel
+.blackbold
+.purple-bold
+.black-bold-14
+.black
+.black-bold-10-uppercase
+.black-bold-10-uppercase-wide
+.black-10-wide
+.black-10-center
+.black-10
+.input-top
+.text
+.checkbox
+.checkbox-form
+checkbox
+.country
+.place
+.place p
+.input-bottom
+.frantill-wrapper
+.input-top-small
+.input-small
+.input-bottom-small
+.purplenumber
+.purplenumber-big
+.margin-10 img, .margin-10
+.margin-right
+.right
+#left-content-hotel
+.left-content-hotel-content h1, #left-content-hotel h1
+#resmal-right-info-wrapper
+#resmal-right-info-container
+#resmal-bottom
+#resmal-right-info-container h1
+#resmal-right-info-container h2
+#resmal-right-info-container h3
+.resmal-right-content-h3
+.resmal-right-content
+.resmal-offers
+.price
+#flag
+.resmal-right-short-info
+#image-slider
+#picture-left
+#picture-right
+#current-picture
+#thumbnails
+#btn-show-all-images
+#map-toolbar p
+.leftarrow
+.rightarrow
+.left-content-hotel-content
+.other-hotels
+.other-hotels img
+.other-hotels-info
+.other-hotels-info h2
+.other-hotels-info p
+.other-hotel-item-stars img
+.toplist-wrapper
+.toplist-top
+.column-even, .column-odd
+.column-odd
+.column-even
+.column-rss
+#column-rss-left
+#column-rss-right
+#column-rss-middle
+.country .checkbox
+#btn-bookmark
+.LabeledMarker_markerLabel
+.map-big-info
+.map-big-info-close
+#read-more-link
+.black_overlay
+.white_content
+.close
+.laddahem
+.prices-col2-input
+.map-popup-price-cell
+.hotel-name-popup-div
+.simple-search-input
+.infoBox > img
+.infobox
+.infobox__title
+.infobox__body .col
+.infobox__loader
+.infobox__loader img
+.media, .bd
+.media .img
+.media .img img
+.media .imgExt
+.cf:before, .cf:after
+.cf:after
+.cf
+.txt-left
+.txt-right
+.txt-center
